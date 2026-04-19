@@ -25,7 +25,7 @@ DAX (Custom Measures for Student Counts and Ratios)
 ## How to Use
 To explore the interactive report:
 
-1- Download the إحصائيات طلاب وطالبات جامعة شقراء لعام" 2024" file from this repository.
+1- Download the احصائيات طلاب وطالبات جامعة شقراء لعام` 2024` file from this repository.
 
 2- Open the file using Power BI Desktop.
 
