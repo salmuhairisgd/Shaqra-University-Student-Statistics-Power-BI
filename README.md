@@ -23,8 +23,13 @@ DAX (Custom Measures for Student Counts and Ratios)
 
 
 ## How to Use
-Download the .pbix file.
+To explore the interactive report:
 
-Open with Power BI Desktop.
+1- Download the إحصائيات طلاب وطالبات جامعة شقراء لعام' 2024' file from this repository.
 
-Use the Gender or Academic Degree slicers to filter the entire dashboard view.
+2- Open the file using Power BI Desktop.
+
+3- Use the Gender or Academic Degree slicers to filter the entire dashboard view.
+
+### Dashboard in Action
+Here are examples of how the interactive filters work
